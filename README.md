@@ -50,7 +50,7 @@ The model uses a Random Forest Classifier trained on industrial IoT sensor readi
 | Process Temperature (K) | 0.13 |
 | Machine Type | 0.03 |
 
-[Feature Importance Plot](feature_importance.png)
+[Feature Importance Plot](images/feature_importance.png)
 
 ---
 
